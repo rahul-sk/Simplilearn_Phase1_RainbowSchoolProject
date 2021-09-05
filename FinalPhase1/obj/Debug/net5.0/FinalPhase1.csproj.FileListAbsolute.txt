@@ -1,0 +1,16 @@
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\bin\Debug\net5.0\FinalPhase1.exe
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\bin\Debug\net5.0\FinalPhase1.deps.json
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\bin\Debug\net5.0\FinalPhase1.runtimeconfig.json
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\bin\Debug\net5.0\FinalPhase1.runtimeconfig.dev.json
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\bin\Debug\net5.0\FinalPhase1.dll
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\bin\Debug\net5.0\ref\FinalPhase1.dll
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\bin\Debug\net5.0\FinalPhase1.pdb
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.csproj.AssemblyReference.cache
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.AssemblyInfoInputs.cache
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.AssemblyInfo.cs
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.csproj.CoreCompileInputs.cache
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.dll
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\ref\FinalPhase1.dll
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.pdb
+C:\Users\11033258\source\repos\FinalPhase1\FinalPhase1\obj\Debug\net5.0\FinalPhase1.genruntimeconfig.cache
